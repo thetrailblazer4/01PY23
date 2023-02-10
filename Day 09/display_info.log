@@ -1,0 +1,3 @@
+INFO:root:Running 'display_info' with args ('John', 28)
+INFO:root:Running 'display_info' with args ('John', 28)
+INFO:root:Running 'display' with args ()

@@ -1,0 +1,3 @@
+INFO:root:Running 'add' with args (4, 1)
+INFO:root:Running 'sub' with args (4, 9)
+INFO:root:Running 'display_info' with args ('John', 28)
